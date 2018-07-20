@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+	font-family: 'Open Sans', helvetica, arial, sans-serif;
+  color: black;
+}
+
+nav {
+    background:url(../img/texture.jpg);
+}
+
+.navbar-brand img {
+    max-width: 250px; 
+}
+
+.navbar-nav a {
+  padding: .8em;
+  font-size: 1.1em !important;
+  text-decoration: none;
+}
+.navbar-nav li {
+  padding-right: 20px;
+}
+
+.bg-dark {
+  background-color: #36542e !important;
+}
+
+#active-btn {
+    background-color: red;
+}
+ 
